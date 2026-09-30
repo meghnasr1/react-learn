@@ -1,0 +1,9 @@
+node_modules/
+
+# Local runtime output and personal practice data
+log.txt
+text.txt
+profile.json
+user.json
+
+.DS_Store
